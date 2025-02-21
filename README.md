@@ -1,10 +1,16 @@
-# Task_manager_app
+# task_manager_app
 
+A new Flutter project.
 
-PLease run the app with the debbuging phase in any device like android,ios or even you can use this app as webapp by running it in google chrome, this app is a resposive app so it can run as a webapp also
+## Getting Started
 
-I have used all the models which are described in the "Models" folder.
+This project is a starting point for a Flutter application.
 
-Please consider this as the submission to the assignment for the flutter developer post.
+A few resources to get you started if this is your first Flutter project:
 
-Thanks.
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.

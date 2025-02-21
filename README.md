@@ -2,9 +2,6 @@
 
 A beautiful and efficient **Task Manager App** built using **Flutter**, **Riverpod**, and **Hive** for seamless task management. 🚀
 
-## 📸 Screenshots
-
-<img src="https://via.placeholder.com/400" alt="Task List Screen" width="400"/> <img src="https://via.placeholder.com/400" alt="Add Task Screen" width="400"/>
 
 ## ✨ Features
 
